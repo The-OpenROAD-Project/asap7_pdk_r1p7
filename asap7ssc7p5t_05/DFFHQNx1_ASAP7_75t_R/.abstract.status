@@ -1,0 +1,7 @@
+cUiSelectCellP {DFFHQNx1_ASAP7_75t_R}
+cUiSetViewStatus {DFFHQNx1_ASAP7_75t_R} {layout} {1}
+cUiSetViewStatus {DFFHQNx1_ASAP7_75t_R} {schematic} {1}
+cUiSetViewStatus {DFFHQNx1_ASAP7_75t_R} {abstract.pin} {3}
+cUiSetViewStatus {DFFHQNx1_ASAP7_75t_R} {abstract.ext} {1}
+cUiSetViewStatus {DFFHQNx1_ASAP7_75t_R} {abstract} {3}
+cUiSetViewStatus {DFFHQNx1_ASAP7_75t_R} {abstract.ver} {0}
